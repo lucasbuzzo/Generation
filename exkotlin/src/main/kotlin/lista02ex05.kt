@@ -12,5 +12,4 @@ fun main() {
 }while(num != 0)
 
 print("A soma dos números é: $soma")
-
 }
