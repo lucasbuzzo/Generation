@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ex06calcTeste.CalcTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-05-26T23:13:24" hostname="A515-51G" time="0.018">
+  <properties/>
+  <testcase name="raizTeste()" classname="ex06calcTeste.CalcTest" time="0.018"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
