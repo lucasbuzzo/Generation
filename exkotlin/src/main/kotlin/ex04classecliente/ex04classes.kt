@@ -1,3 +1,5 @@
+package ex04classecliente
+
 fun main(){
 
     print("Digite seu nome: ")

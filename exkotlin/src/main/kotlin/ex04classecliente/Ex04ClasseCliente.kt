@@ -1,3 +1,5 @@
+package ex04classecliente
+
 class Ex04ClasseCliente (private var nome: String) {
 
     private var endereco = ""
