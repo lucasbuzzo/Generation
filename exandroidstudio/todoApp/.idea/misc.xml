@@ -3,9 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
-        <entry key="..\:/Users/lucas/Desktop/Estudos/Development/GenerationBootcamp/exandroidstudio/todoApp/app/src/main/res/layout/activity_main.xml" value="0.16" />
+        <entry key="..\:/Users/lucas/Desktop/Estudos/Development/GenerationBootcamp/exandroidstudio/todoApp/app/src/main/res/layout/activity_main.xml" value="0.14" />
+        <entry key="..\:/Users/lucas/Desktop/Estudos/Development/GenerationBootcamp/exandroidstudio/todoApp/app/src/main/res/layout/card_layout.xml" value="0.15" />
         <entry key="..\:/Users/lucas/Desktop/Estudos/Development/GenerationBootcamp/exandroidstudio/todoApp/app/src/main/res/layout/fragment_form.xml" value="0.22" />
-        <entry key="..\:/Users/lucas/Desktop/Estudos/Development/GenerationBootcamp/exandroidstudio/todoApp/app/src/main/res/layout/fragment_list.xml" value="0.12090163934426229" />
+        <entry key="..\:/Users/lucas/Desktop/Estudos/Development/GenerationBootcamp/exandroidstudio/todoApp/app/src/main/res/layout/fragment_list.xml" value="0.18" />
       </map>
     </option>
   </component>
